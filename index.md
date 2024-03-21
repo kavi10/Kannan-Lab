@@ -3,7 +3,9 @@
 
 # Kannan Lab
 
-An engaging 1-3 sentence description of your lab.
+ the Wilmer Eye Institute, Johns Hopkins School of Medicine, is at the forefront of interdisciplinary research in nanomedicine. Our focus spans various applications of nanomaterials, particularly in targeted drug delivery for ocular and neurodegenerative diseases. Using dendrimers as a platform, our translational research program aims to address challenges in conditions like cerebral palsy and age-related macular degeneration.
+
+Our team has a track record of innovation, with multiple patents and numerous peer-reviewed publications. We've been honored with prestigious awards such as the National Science Foundation CAREER and Unilever awards, recognizing the impact of our work. Additionally, Dr. Rangaramanujam's leadership extends to serving on the editorial board of Nanomedicine, further contributing to the advancement of our field.
 
 {% include section.html %}
 
