@@ -1,17 +1,16 @@
 # site properties and page defaults
-title: Kannan Lab
-subtitle: 
-description:  the Wilmer Eye Institute, Johns Hopkins School of Medicine, is at the forefront of interdisciplinary research in nanomedicine. Our focus spans various applications of nanomaterials, particularly in targeted drug delivery for ocular and neurodegenerative diseases. Using dendrimers as a platform, our translational research program aims to address challenges in conditions like cerebral palsy and age-related macular degeneration.
-Our team has a track record of innovation, with multiple patents and numerous peer-reviewed publications.
+title: kavi10
+subtitle: by the Greene Lab
+description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
 
 # site social media and other links
 links:
-  email: kranagar1@jhmi.edu
+  email: contact@your-lab.com
   orcid: 0000-0001-8713-9213
-  google-scholar: Dr. Kannan Rangaramanujam
+  google-scholar: ETJoidYAAAAJ
   github: kavi10
   twitter: kavi10
   youtube: kavi10
