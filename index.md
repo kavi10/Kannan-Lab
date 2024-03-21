@@ -1,7 +1,7 @@
 ---
 ---
 
-# kavi10's Website
+# Kannan Lab
 
 An engaging 1-3 sentence description of your lab.
 
