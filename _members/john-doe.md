@@ -1,6 +1,6 @@
 ---
-name: John Doe
-image: images/photo.jpg
+name: Dr. Wathsala Liyanage
+image: images/wathsala.jpg
 role: phd
 group: alum
 links:
