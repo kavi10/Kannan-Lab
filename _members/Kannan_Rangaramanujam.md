@@ -1,5 +1,5 @@
 ---
-name: Kannan Rangaramanujam, Ph.D., M.S.
+name: Rangaramanujam M. Kannan, Ph.D., M.S.
 image: images/members/kannan.jpeg
 role: pi
 links:
