@@ -11,9 +11,8 @@ links:
 ---
 
 ### Kannan Rangaramanujam, Ph.D., M.S.
-#### Co-Director, Center for Nanomedicine
-#### Professor of Ophthalmology
-##### Research Interests: Drug delivery for ocular and neurodegenerative diseases; Nanomedicine 
+##### Co-Director, Center for Nanomedicine
+##### Professor of Ophthalmology
 
 {:.left}
 
