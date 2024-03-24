@@ -13,7 +13,7 @@ Our team has a track record of innovation, with multiple patents and numerous pe
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our team has a track record of innovation, with multiple patents and numerous peer-reviewed publications. We’ve been honored with prestigious awards such as the National Science Foundation CAREER and Unilever awards, recognizing the impact of our work. Additionally, Dr. Rangaramanujam’s leadership extends to serving on the editorial board of Nanomedicine, further contributing to the advancement of our field.
 
 {%
   include button.html
