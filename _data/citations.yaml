@@ -202,3 +202,13 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1016/S0378-5173(03)00225-4
+  title: Drug complexation, in vitro release and cellular entry of dendrimers and
+    hyperbranched polymers
+  authors:
+  - P Kolhe
+  publisher: International Journal of Pharmaceutics
+  date: '2003-06-18'
+  link: https://doi.org/fq3r8n
+  plugin: sources.py
+  file: sources.yaml
