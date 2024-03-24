@@ -1,6 +1,6 @@
 # site properties and page defaults
-title: Dr. Kannan Rangaramanujam 
-subtitle: by the Kannan Lab
+title: Kannan Lab
+subtitle: Dr. Kannan Rangaramanujam
 description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
 header: images/background.jpg
 footer: images/background.jpg
@@ -8,12 +8,12 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@your-lab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: krangar1@jhmi.edu
+  orcid: 0000-0002-3712-7836
+  google-scholar: Z6QBnEsAAAAJ
   github: kavi10
-  twitter: kavi10
-  youtube: kavi10
+  twitter: kannan_RM_JHU
+  youtube: JohnsHopkinsMedicine
 
 ### jekyll settings
 
