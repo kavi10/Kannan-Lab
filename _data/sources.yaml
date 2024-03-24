@@ -11,7 +11,6 @@
 
 - id: doi:10.1016/j.drudis.2010.01.009
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1359644610000334-gr1.jpg
-  title: Dendrimer-based drug and imaging conjugates: design considerations for nanomedical applications
   description: Dendrimers are versatile polymer nanocontainers for drug delivery and imaging, playing key roles in drug efficacy and cellular transport with applications in translational research.
   buttons:
     - type: source
