@@ -1,10 +1,20 @@
 - id: doi:10.1016/S0378-5173(03)00225-4
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0378517303002254-gr9ab.gif
-  description: Lorem ipsum _dolor sit amet_.
+  description: Highly branched, functionalized polymers have potential to act as efficient drug carrier systems.
   buttons:
     - type: source
-      link: https://github.com/your-lab/some-repo
+      link: https://www.sciencedirect.com/science/article/pii/S0378517303002254?via%3Dihub
   tags:
     - biology
-    - big data
+    - medicine
+
+- id: pubmed:20116448
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1359644610000334-gr1.jpg
+  title: Dendrimer-based drug and imaging conjugates: design considerations for nanomedical applications
+  description: Dendrimers are versatile polymer nanocontainers for drug delivery and imaging, playing key roles in drug efficacy and cellular transport with applications in translational research.
+  buttons:
+    - type: source
+      link: https://pubmed.ncbi.nlm.nih.gov/20116448/
+  tags:
+    - biology
     - medicine
