@@ -203,10 +203,12 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: https://doi.org/10.1016/j.drudis.2010.01.009
-  title: ''
-  authors: []
-  publisher: ''
-  date: '2010-03-01'
+  title: 'Dendrimer-based drug and imaging conjugates: design considerations for nanomedical applications'
+  authors: 
+  - Rangaramanujam M Kannan
+  - Donald A Tomalia
+  publisher: Drug Discovery Today
+  date: '2010-1-29'
   link: https://doi.org/10.1016/j.drudis.2010.01.009
   type: paper
   description: Dendrimers are versatile polymer nanocontainers for drug delivery and
@@ -221,5 +223,5 @@
   - Drug Delivery
   - Cellular Transport Mechanisms
   - Spacer Chemistry
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
