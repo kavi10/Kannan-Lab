@@ -1,205 +1,249 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1016/j.addr.2023.115005
+  title: 'A new era in posterior segment ocular drug delivery: Translation of systemic,
+    cell-targeted, dendrimer-based therapies'
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Rangaramanujam M. Kannan
+  - Ian Pitha
+  - Kunal S. Parikh
+  publisher: Advanced Drug Delivery Reviews
+  date: '2023-09-01'
+  link: https://doi.org/gtnzfz
+  orcid: 0000-0002-3483-7429
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1002/btm2.10487
+  title: "Nanofiber\u2010based glaucoma drainage implant improves surgical outcomes\
+    \ by modulating fibroblast behavior"
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - Aditya Josyula
+  - Ann Mozzer
+  - Julia Szeto
+  - Youlim Ha
+  - Nicole Richmond
+  - Seung Woo Chung
+  - Sri Vishnu Kiran Rompicharla
+  - Janani Narayan
+  - Samiksha Ramesh
+  - Justin Hanes
+  - Laura Ensign
+  - Kunal Parikh
+  - Ian Pitha
+  publisher: Bioengineering &amp; Translational Medicine
+  date: '2023-01-18'
+  link: https://doi.org/gtnzf2
+  orcid: 0000-0002-3483-7429
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1016/j.jconrel.2022.11.020
+  title: Nanofiber-coated, tacrolimus-eluting sutures inhibit post-operative neointimal
+    hyperplasia in rats
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Kunal S. Parikh
+  - Aditya Josyula
+  - Takahiro Inoue
+  - Takuma Fukunishi
+  - Huaitao Zhang
+  - Revaz Omiadze
+  - Richard Shi
+  - Youseph Yazdi
+  - Justin Hanes
+  - Laura M. Ensign
+  - Narutoshi Hibino
+  publisher: Journal of Controlled Release
+  date: '2023-01-01'
+  link: https://doi.org/gtnzf3
+  orcid: 0000-0002-3483-7429
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1097/ICO.0000000000003096
+  title: DescePrep Significantly Increases Descemet Membrane Endothelial Keratoplasty
+    Processing Efficiency and Success Rate in Diabetic Human Donor Corneas in Comparison
+    With Manual Dissection
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Katherine D. Solley
+  - Alexandra J. Berges
+  - Elizabeth Phillips
+  - Andy S. Ding
+  - Christine M. Diaz
+  - Sudeep Pramanik
+  - Youseph Yazdi
+  - Kunal S. Parikh
+  publisher: Cornea
+  date: '2022-07-06'
+  link: https://doi.org/gtnzf4
+  orcid: 0000-0002-3483-7429
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1097/ICO.0000000000002861
+  title: Evaluation of Efficacy, Efficiency, and Cell Viability of a Novel Descemet
+    Membrane Endothelial Keratoplasty Graft Preparation Device, DescePrep, in Nondiabetic
+    and Diabetic Human Donor Corneas
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Katherine D. Solley
+  - Alexandra Berges
+  - Christine Diaz
+  - Benjamin T. Ostrander
+  - Andy S. Ding
+  - Sara A. Larson
+  - Kendall Frank
+  - Darrell Lee
+  - Juan Guerrero
+  - Tagide deCarvalho
+  - Edward Ruppel
+  - Ailon Haileyesus
+  - Yueheng Dou
+  - Shannon Schweitzer
+  - Sudeep Pramanik
+  - Youseph Yazdi
+  - Kunal S. Parikh
+  publisher: Cornea
+  date: '2021-10-05'
+  link: https://doi.org/gtnzf5
+  orcid: 0000-0002-3483-7429
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.18240/ijo.2021.05.08
+  title: 'Addressing the MSICS learning curve: identification of instrument-holding
+    techniques used by experienced surgeons'
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vince P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Alexandra J. Berges
+  - Angela Zhu
+  - Shameema Sikder
+  - Samuel Yiu
+  - Ravilla D. Ravindran
+  - Kunal S. Parikh
+  publisher: International Journal of Ophthalmology
+  date: '2021-05-18'
+  link: https://doi.org/gtnzf6
+  orcid: 0000-0002-3483-7429
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1002/btm2.10238
+  title: "An ion\u2010paired moxifloxacin nanosuspension eye drop provides improved\
+    \ prevention and treatment of ocular infection"
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Aditya Josyula
+  - Revaz Omiadze
+  - Kunal Parikh
+  - Pranjali Kanvinde
+  - Matthew B. Appell
+  - Pratikkumar Patel
+  - Hiwa Saeed
+  - Yogesh Sutar
+  - Nicole Anders
+  - Ping He
+  - Peter J. McDonnell
+  - Justin Hanes
+  - Abhijit A. Date
+  - Laura M. Ensign
+  publisher: Bioengineering &amp; Translational Medicine
+  date: '2021-06-22'
+  link: https://doi.org/gtnzf7
+  orcid: 0000-0002-3483-7429
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: doi:10.1007/s13346-021-00955-0
+  title: Engineering biomaterials to prevent post-operative infection and fibrosis
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2019-06-24'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
+  - Aditya Josyula
+  - Kunal S. Parikh
+  - Ian Pitha
+  - Laura M. Ensign
+  publisher: Drug Delivery and Translational Research
+  date: '2021-03-12'
+  link: https://doi.org/gtnzf8
+  orcid: 0000-0002-3483-7429
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
+- id: doi:10.1002/btm2.10204
+  title: "Ultra\u2010thin, high strength, antibiotic\u2010eluting sutures for prevention\
+    \ of ophthalmic infection"
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
+  - Kunal S. Parikh
+  - Revaz Omiadze
+  - Aditya Josyula
+  - Richard Shi
+  - Nicole M. Anders
+  - Ping He
+  - Youseph Yazdi
+  - Peter J. McDonnell
+  - Laura M. Ensign
+  - Justin Hanes
+  publisher: Bioengineering &amp; Translational Medicine
+  date: '2020-12-09'
+  link: https://doi.org/gtnzf9
+  orcid: 0000-0002-3483-7429
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-020-69687-4
+  title: Nano-structured glaucoma drainage implant safely and significantly reduces
+    intraocular pressure in rabbits via post-operative outflow modulation
+  authors:
+  - Kunal S. Parikh
+  - Aditya Josyula
+  - Revaz Omiadze
+  - Ju Young Ahn
+  - Youlim Ha
+  - Laura M. Ensign
+  - Justin Hanes
+  - Ian Pitha
+  publisher: Scientific Reports
+  date: '2020-07-31'
+  link: https://doi.org/gtnzgb
+  orcid: 0000-0002-3483-7429
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/09205063.2013.822246
+  title: Effects of hydrophobicity and mat thickness on release from hydrogel-electrospun
+    fiber mat composites
+  authors:
+  - Ning Han
+  - Patrick A. Bradley
+  - Jed Johnson
+  - Kunal S. Parikh
+  - Alex Hissong
+  - Mark A. Calhoun
+  - John J. Lannutti
+  - Jessica O. Winter
+  publisher: Journal of Biomaterials Science, Polymer Edition
+  date: '2013-08-01'
+  link: https://doi.org/ggcj4n
+  orcid: 0000-0002-3483-7429
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.msec.2012.07.028
+  title: Ceramic nanopatterned surfaces to explore the effects of nanotopography on
+    cell attachment
+  authors:
+  - K.S. Parikh
+  - S.S. Rao
+  - H.M. Ansari
+  - L.B. Zimmerman
+  - L.J. Lee
+  - S.A. Akbar
+  - J.O. Winter
+  publisher: 'Materials Science and Engineering: C'
+  date: '2012-12-01'
+  link: https://doi.org/gtnzgc
+  orcid: 0000-0002-3483-7429
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fneng.2011.00002
+  title: "Hydrogel\u2013Electrospun Fiber Mat Composite Coatings for Neural Prostheses"
+  authors:
+  - Ning Han
+  - Shreyas S. Rao
+  - Jed Johnson
+  - Kunal S. Parikh
+  - Patrick A. Bradley
+  - John J. Lannutti
+  - Jessica O. Winter
+  publisher: Frontiers in Neuroengineering
+  date: '2011-01-01'
+  link: https://doi.org/dw78xj
+  orcid: 0000-0002-3483-7429
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/S0378-5173(03)00225-4
