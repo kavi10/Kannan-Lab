@@ -1,4 +1,4 @@
-- id: https://doi.org/10.1016/j.addr.2023.115005
+- id: doi: 10.1016/s0378-5173(03)00225-4
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1359644610000334-gr1.jpg
   buttons:
     - type: source
