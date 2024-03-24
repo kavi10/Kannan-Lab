@@ -6,7 +6,7 @@ pi:
   icon: fa-solid fa-microscope
   description: Principal Investigator
 
-postdoc:
+Research fellow:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
 
