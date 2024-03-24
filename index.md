@@ -5,7 +5,6 @@
 
  the Wilmer Eye Institute, Johns Hopkins School of Medicine, is at the forefront of interdisciplinary research in nanomedicine. Our focus spans various applications of nanomaterials, particularly in targeted drug delivery for ocular and neurodegenerative diseases. Using dendrimers as a platform, our translational research program aims to address challenges in conditions like cerebral palsy and age-related macular degeneration.
 
-Our team has a track record of innovation, with multiple patents and numerous peer-reviewed publications. We've been honored with prestigious awards such as the National Science Foundation CAREER and Unilever awards, recognizing the impact of our work. Additionally, Dr. Rangaramanujam's leadership extends to serving on the editorial board of Nanomedicine, further contributing to the advancement of our field.
 
 {% include section.html %}
 
@@ -61,7 +60,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our team thrives on groundbreaking research, fostering a dynamic and collaborative atmosphere, and prioritizes mentoring emerging scientists.
+
 
 {%
   include button.html
