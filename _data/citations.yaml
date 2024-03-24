@@ -203,11 +203,9 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: https://doi.org/10.1016/j.drudis.2010.01.009
-  title: Dendrimer-based drug and imaging conjugates: design considerations for nanomedical applications
-  authors: 
-  - Ranagaramanujam M Kannan
-  - Donald A Tomalia
-  publisher: Drug Discovery Today
+  title: ''
+  authors: []
+  publisher: ''
   date: '2010-03-01'
   link: https://doi.org/10.1016/j.drudis.2010.01.009
   type: paper
