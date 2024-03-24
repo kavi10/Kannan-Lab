@@ -28,7 +28,7 @@ Our team has a track record of innovation, with multiple patents and numerous pe
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/papers/highlight.jpeg"
   link="research"
   title="Our Research"
   text=text
