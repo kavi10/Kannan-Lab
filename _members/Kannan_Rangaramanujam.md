@@ -11,6 +11,10 @@ links:
 ---
 
 ### Kannan Rangaramanujam, Ph.D., M.S.
+#### Co-Director, Center for Nanomedicine
+#### Professor of Ophthalmology
+##### Research Interests: Drug delivery for ocular and neurodegenerative diseases; Nanomedicine 
+
 {:.left}
 
 - Specializing in translational nanomedicine, research focuses on a unique hydroxyl dendrimer platform for targeting injured glia/macrophages. This approach aims to develop therapies for various disorders, supported by patents, publications, and NIH funding. Affiliations with AIMBE and the NSF CAREER award led to co-founding Ashvattha Therapeutics Inc., advancing dendrimer technologies with promising results in severe COVID patients.
