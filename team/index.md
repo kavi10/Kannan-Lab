@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+At KANNAN LAB, we cultivate a vibrant, collaborative, and team-centric environment, fostering an atmosphere conducive to ambitious research endeavors. Our unwavering commitment to nurturing the next generation of scientists is reflected through our robust internal and international exchange programs, aimed at mentoring and guiding young minds towards success.
 
 {% include section.html %}
 
