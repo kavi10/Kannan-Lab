@@ -1,6 +1,6 @@
 ---
 name: Narendra Kale, Ph.D.
-image: images/members/Narendra.jpeg
+image: images/members/narendra.jpeg
 role: Research fellow
 links:
   email: nkale2@jh.edu
