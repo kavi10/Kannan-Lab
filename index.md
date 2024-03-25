@@ -8,6 +8,8 @@
 
 {% include section.html %}
 
+{% include carousel.html height="40" unit="%" duration="10" number="1" %}
+
 ## Highlights
 
 {% capture text %}
