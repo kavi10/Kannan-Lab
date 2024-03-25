@@ -1,4 +1,12 @@
 ---
+
+carousels:
+  - images: 
+    - image: /images/carousel/n2
+    - image: /images/carousel/n3
+    - image: /images/carousel/n4
+    - image: /images/carousel/n5
+ 
 ---
 
 # Kannan Lab
