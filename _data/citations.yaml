@@ -1,5 +1,52 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1002/btm2.10655
+  title: "Development of a novel glucose\u2010dendrimer based therapeutic targeting\
+    \ hyperexcitable neurons in neurological disorders"
+  authors:
+  - Anjali Sharma
+  - Nirnath Sah
+  - Rishi Sharma
+  - Preeti Vyas
+  - Wathsala Liyanage
+  - Sujatha Kannan
+  - Rangaramanujam M. Kannan
+  publisher: Bioengineering &amp; Translational Medicine
+  date: '2024-03-26'
+  link: https://doi.org/gt7w4n
+  orcid: 0000-0002-3712-7836
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.addr.2023.115005
+  title: 'A new era in posterior segment ocular drug delivery: Translation of systemic,
+    cell-targeted, dendrimer-based therapies'
+  authors:
+  - Rangaramanujam M. Kannan
+  - Ian Pitha
+  - Kunal S. Parikh
+  publisher: Advanced Drug Delivery Reviews
+  date: '2023-09-01'
+  link: https://doi.org/gtnzfz
+  orcid: 0000-0002-3712-7836
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.biomac.2c01381
+  title: "Targeted Microglial Attenuation through Dendrimer\u2013Drug Conjugates Improves\
+    \ Glaucoma Neuroprotection"
+  authors:
+  - Ian Pitha
+  - Siva Kambhampati
+  - Anjali Sharma
+  - Rishi Sharma
+  - Liam McCrea
+  - Ann Mozzer
+  - Rangaramanujam M. Kannan
+  publisher: Biomacromolecules
+  date: '2023-02-24'
+  link: https://doi.org/gt7w4p
+  orcid: 0000-0002-3712-7836
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1021/acsami.2c13129
   title: "Dendrimer\u2013siRNA Conjugates for Targeted Intracellular Delivery in Glioblastoma\
     \ Animal Models"
@@ -11,34 +58,238 @@
   publisher: ACS Applied Materials &amp; Interfaces
   date: '2022-10-10'
   link: https://doi.org/gtnzhp
-  orcid: 0000-0002-9636-3062
+  orcid: 0000-0002-3712-7836
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1039/D0SM01217C
-  title: Impact of gelation method on thixotropic properties of phenylalanine-derived
-    supramolecular hydrogels
+- id: doi:10.1002/btm2.10259
+  title: "Systemic administration of dendrimer N\u2010acetyl cysteine improves outcomes\
+    \ and survival following cardiac arrest"
   authors:
-  - Elena Quigley
-  - Jade Johnson
-  - Wathsala Liyanage
-  - Bradley L. Nilsson
-  publisher: Soft Matter
+  - Hiren R. Modi
+  - Qihong Wang
+  - Sarah J. Olmstead
+  - Elizabeth S. Khoury
+  - Nirnath Sah
+  - Yu Guo
+  - Payam Gharibani
+  - Rishi Sharma
+  - Rangaramanujam M. Kannan
+  - Sujatha Kannan
+  - Nitish V. Thakor
+  publisher: Bioengineering &amp; Translational Medicine
+  date: '2021-10-13'
+  link: https://doi.org/gt7w4q
+  orcid: 0000-0002-3712-7836
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.33218/001c.29729
+  title: Characterization of microglial phagocytosis and dendrimer nanoparticle uptake
+    in a neonatal rabbit model of cerebral palsy
+  authors:
+  - Aria C Shi
+  - Elizabeth S Khoury
+  - Nirnath Sah
+  - Amanda Fowler
+  - Kevin Liaw
+  - Anjali Sharma
+  - Rangaramanujam M. Kannan
+  - Sujatha Kannan
+  publisher: Precision Nanomedicine
+  date: '2021-10-28'
+  link: https://doi.org/gt7w4r
+  orcid: 0000-0002-3712-7836
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.biomac.1c00649
+  title: Rationally Designed Galactose Dendrimer for Hepatocyte-Specific Targeting
+    and Intracellular Drug Delivery for the Treatment of Liver Disorders
+  authors:
+  - Rishi Sharma
+  - Joshua E. Porterfield
+  - Hyoung-Tae An
+  - Ambar Scarlet Jimenez
+  - Seulki Lee
+  - Sujatha Kannan
+  - Anjali Sharma
+  - Rangaramanujam M. Kannan
+  publisher: Biomacromolecules
+  date: '2021-07-29'
+  link: https://doi.org/gqfczw
+  orcid: 0000-0002-3712-7836
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/btm2.10205
+  title: "Targeted systemic dendrimer delivery of <scp>CSF\u20101R</scp> inhibitor\
+    \ to tumor\u2010associated macrophages improves outcomes in orthotopic glioblastoma"
+  authors:
+  - Kevin Liaw
+  - Rajsekhar Reddy
+  - Anjali Sharma
+  - Jiangyu Li
+  - Michelle Chang
+  - Rishi Sharma
+  - Sebastian Salazar
+  - Sujatha Kannan
+  - Rangaramanujam M. Kannan
+  publisher: Bioengineering &amp; Translational Medicine
+  date: '2020-12-11'
+  link: https://doi.org/gt7w4s
+  orcid: 0000-0002-3712-7836
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/adtp.202000181
+  title: "Dendrimer\u2010Triamcinolone Acetonide Reduces Neuroinflammation, Pathological\
+    \ Angiogenesis, and Neuroretinal Dysfunction in Ischemic Retinopathy"
+  authors:
+  - Hongkwan Cho
+  - Siva P. Kambhampati
+  - Michael J. Lai
+  - Lingli Zhou
+  - Grace Lee
+  - Yangyiran Xie
+  - Qiaoyan Hui
+  - Rangaramanujam M. Kannan
+  - Elia J. Duh
+  publisher: Advanced Therapeutics
+  date: '2020-11-09'
+  link: https://doi.org/gt7w4t
+  orcid: 0000-0002-3712-7836
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/D0NR05958G
+  title: "Dendrimer\u2013tesaglitazar conjugate induces a phenotype shift of microglia\
+    \ and enhances \u03B2-amyloid phagocytosis"
+  authors:
+  - Louis DeRidder
+  - Anjali Sharma
+  - Kevin Liaw
+  - Rishi Sharma
+  - John John
+  - Sujatha Kannan
+  - Rangaramanujam M. Kannan
+  publisher: Nanoscale
+  date: '2021-01-01'
+  link: https://doi.org/gt7w4v
+  orcid: 0000-0002-3712-7836
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.biomac.0c01270
+  title: Dendrimer-Mediated Targeted Delivery of Rapamycin to Tumor-Associated Macrophages
+    Improves Systemic Treatment of Glioblastoma
+  authors:
+  - Anjali Sharma
+  - Kevin Liaw
+  - Rishi Sharma
+  - Talis Spriggs
+  - Santiago Appiani La Rosa
+  - Sujatha Kannan
+  - Rangaramanujam M. Kannan
+  publisher: Biomacromolecules
+  date: '2020-10-28'
+  link: https://doi.org/gt7w4w
+  orcid: 0000-0002-3712-7836
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.biomac.0c01033
+  title: Targeting Mitochondria in Tumor-Associated Macrophages using a Dendrimer-Conjugated
+    TSPO Ligand that Stimulates Antitumor Signaling in Glioblastoma
+  authors:
+  - Anjali Sharma
+  - Kevin Liaw
+  - Rishi Sharma
+  - Ajit G. Thomas
+  - Barbara S. Slusher
+  - Sujatha Kannan
+  - Rangaramanujam M. Kannan
+  publisher: Biomacromolecules
+  date: '2020-08-06'
+  link: https://doi.org/gt7w4x
+  orcid: 0000-0002-3712-7836
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jconrel.2020.04.036
+  title: Dendrimer mediated targeted delivery of sinomenine for the treatment of acute
+    neuroinflammation in traumatic brain injury
+  authors:
+  - Rishi Sharma
+  - Siva P. Kambhampati
+  - Zhi Zhang
+  - Anjali Sharma
+  - Samuel Chen
+  - Erica I. Duh
+  - Sujatha Kannan
+  - Mark O.M. Tso
+  - Rangaramanujam M. Kannan
+  publisher: Journal of Controlled Release
+  date: '2020-07-01'
+  link: https://doi.org/gkh87g
+  orcid: 0000-0002-3712-7836
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/btm2.10160
+  title: Dendrimer size effects on the selective brain tumor targeting in orthotopic
+    tumor models upon systemic administration
+  authors:
+  - Kevin Liaw
+  - Fan Zhang
+  - Antonella Mangraviti
+  - Sujatha Kannan
+  - Betty Tyler
+  - Rangaramanujam M. Kannan
+  publisher: Bioengineering &amp; Translational Medicine
+  date: '2020-04-14'
+  link: https://doi.org/gt7w4z
+  orcid: 0000-0002-3712-7836
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/C9NR10804A
+  title: Glial restricted precursor delivery of dendrimer <i>N</i>-acetylcysteine
+    promotes migration and differentiation following transplant in mouse white matter
+    injury model
+  authors:
+  - Christina L. Nemeth
+  - Sophia N. Tomlinson
+  - Rishi Sharma
+  - Anjali Sharma
+  - Sujatha Kannan
+  - Rangaramanujam M. Kannan
+  - Ali Fatemi
+  publisher: Nanoscale
   date: '2020-01-01'
-  link: https://doi.org/gptchn
-  orcid: 0000-0002-9636-3062
+  link: https://doi.org/gt7w42
+  orcid: 0000-0002-3712-7836
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1021/acs.langmuir.9b02971
-  title: Strategy to Identify Improved N-Terminal Modifications for Supramolecular
-    Phenylalanine-Derived Hydrogelators
+- id: doi:10.1007/s11051-018-4219-1
+  title: Quantitative assessment of surface functionality effects on microglial uptake
+    and retention of PAMAM dendrimers
   authors:
-  - Brittany L. Abraham
-  - Wathsala Liyanage
-  - Bradley L. Nilsson
-  publisher: Langmuir
-  date: '2019-10-30'
-  link: https://doi.org/gtnzhq
-  orcid: 0000-0002-9636-3062
+  - Kevin Liaw
+  - "Ozgul G\xF6k"
+  - Louis B. DeRidder
+  - Sujatha Kannan
+  - Rangaramanujam M. Kannan
+  publisher: Journal of Nanoparticle Research
+  date: '2018-04-01'
+  link: https://doi.org/gdghgk
+  orcid: 0000-0002-3712-7836
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.bioconjchem.7b00569
+  title: "Activated Microglia Targeting Dendrimer\u2013Minocycline Conjugate as Therapeutics\
+    \ for Neuroinflammation"
+  authors:
+  - Rishi Sharma
+  - Soo-Young Kim
+  - Anjali Sharma
+  - Zhi Zhang
+  - Siva Pramodh Kambhampati
+  - Sujatha Kannan
+  - Rangaramanujam M. Kannan
+  publisher: Bioconjugate Chemistry
+  date: '2017-10-27'
+  link: https://doi.org/gchbtq
+  orcid: 0000-0002-3712-7836
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/S0378-5173(03)00225-4
