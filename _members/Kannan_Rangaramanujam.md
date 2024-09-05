@@ -10,7 +10,7 @@ links:
   youtube: JohnsHopkinsMedicine
 ---
 
-### Kannan Rangaramanujam, Ph.D., M.S.
+### Kannan Rangaramanujam, Ph.D.
 ##### Co-Director, Center for Nanomedicine
 ##### Professor of Ophthalmology
 
