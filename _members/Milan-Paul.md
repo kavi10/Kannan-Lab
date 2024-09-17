@@ -1,15 +1,13 @@
 ---
-name: Narendra Kale, Ph.D.
-image: images/members/narendra.jpeg
+name: Milan Paul, Ph.D.
+image: images/members/milan paul.jpg
 role: Research fellow
 links:
-  email: nkale2@jh.edu
-  orcid: 0000-0001-5774-3559
-  google-scholar: fNTyl-UAAAAJ
+  email: mpaul38@jh.edu
+
+  google-scholar: v9JEljkAAAAJ
   youtube: JohnsHopkinsMedicine
 ---
 
-### Narendra Kale, Ph.D.
+### Milan Paul, Ph.D.
 {:.left}
-
--  Experience in fluorescence microscopy, 3D culture techniques, and biophysical analysis of the tumor microenvironment. Proficient in drug delivery methodologies, leveraging interdisciplinary approaches to advance research and innovation in cancer therapeutics.
