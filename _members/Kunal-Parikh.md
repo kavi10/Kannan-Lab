@@ -3,7 +3,7 @@ name: Kunal S. Parikh, Ph.D.
 image: images/members/kunal.jpeg
 role: pi
 links:
-  email: krangar1@jhmi.edu
+  email: ksp@jhu.edu
   orcid: 0000-0002-3483-7429
   google-scholar: 5X8ScEAAAAJ
   twitter: KunalParikhPhD
