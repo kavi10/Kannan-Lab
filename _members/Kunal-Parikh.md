@@ -13,6 +13,6 @@ links:
 ### Kunal S. Parikh, Ph.D.
 {:.left}
 
-- Dr. Kunal Parikh is a faculty member at Johns Hopkins University leading innovation in bioengineering and biomedical solutions. He is the Co-founder and President of Access HEARS, offering affordable hearing care, and previously served as the Executive Director of the Social Innovation Lab at JHU. With a Ph.D. in Biomedical Engineering from JHU and a background in venture-backed biotechnology, Dr. Parikh is dedicated to addressing global health disparities and advancing health equity.
+- Dr. Kunal Parikh is an Assistant Professor at Johns Hopkins University leading innovation in bioengineering and biomedical solutions. He is the Co-founder and President of Access HEARS, offering affordable hearing care, and previously served as the Executive Director of the Social Innovation Lab at JHU. With a Ph.D. in Biomedical Engineering from JHU and a background in venture-backed biotechnology, Dr. Parikh is dedicated to addressing global health disparities and advancing health equity.
 
 - PhD – Johns Hopkins University, Baltimore, USA 
